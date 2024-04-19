@@ -1,0 +1,51 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: 200;
+    color: black;
+    background-color: black;
+}
+li {
+    font-style: italic;
+    font-size: 16px;
+    font-weight: normal;
+}
+a {
+    color:lightskyblue;
+    text-decoration: none;
+    /* font-weight: bold;
+    font-size: 18x; */
+
+}
+a:hover {
+    text-decoration: underline;
+}
+a:visited {
+    color: deeppink;
+}
+.rlheading {
+    font-weight: bold;
+    font-style: normal;
+}
+.underline {text-decoration: underline;}
+.bold {font-weight: bold;}
+.justify {text-align: justify;}
+
+.homebg {
+    background-image: url('../images/bg.jpg');
+    background-position: top right;
+    color: floralwhite;
+}
+.box1 {
+    border-width: 1px;
+    border-style: solid;
+    border-color: honeydew;
+
+    border: 1px solid yellow;
+}
+.box2 {
+    padding: 5px;
+}
+.box3 {
+    margin: 50px;
+}
